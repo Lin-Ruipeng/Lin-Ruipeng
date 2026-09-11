@@ -1,4 +1,4 @@
-### Hi, I'm foxlin (林惢朋) 👋
+### Hi, I'm folin (林惢朋) 👋
 
 I'm a master's student in engineering at **Chongqing University**, currently focusing on **Edge AI Deployment**, **High-Performance Computing (HPC)**, and **Modern C++**. Coming from an automation engineering background, I am passionate about squeezing performance out of resource-constrained hardware and building zero-loss, low-latency data pipelines.
 
